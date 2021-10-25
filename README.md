@@ -51,9 +51,20 @@ Timezone: Europe/Paris (CEST)
 <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
 <!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>-->
+  
    </p>
 <br />
 <p align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 <br />
+<a href="https://github.com/farkyr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farkyr&layout=compact" />
+</a>
+
+<a href="https://github.com/farkyr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farkyr&show_icons=true&theme=radical" />
+</a>
+
+
+
